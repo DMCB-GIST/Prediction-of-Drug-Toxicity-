@@ -5,7 +5,7 @@ You can download the pretrained mol2vec model in https://github.com/samoturk/mol
 
 If you have unseen drug data, see Toxicity_prediction with unseen data.ipynb  
 
-The trined model used https://cactus.nci.nih.gov/download/acute-toxicity-db/ data  
+The trained model used https://cactus.nci.nih.gov/download/acute-toxicity-db/ data  
 
 The model was conducted through multi-task learning on 59 end points using Avalon fingerprint and mol2vec embedding data as input  
 
